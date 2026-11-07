@@ -1,7 +1,7 @@
-streamlit
-scikit-learn==X.Y.Z
-numpy
-pandas
-matplotlib
-seaborn
-joblib
+   streamlit
+   scikit-learn==1.9.1
+   numpy
+   pandas
+   matplotlib
+   seaborn
+   joblib
