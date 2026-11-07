@@ -7,8 +7,8 @@
 ---
 
 ### Mandatory Links
-- **GitHub Repository Link:** https://github.com/<your-username>/<your-repo-name>
-- **Live Streamlit App Link:** https://<your-app-name>.streamlit.app/
+- **GitHub Repository Link:** https://github.com/Poojahsris01/bits-ml-assignment-2/tree/main
+- **Live Streamlit App Link:** https://bits-ml-assignment-2-ngysds348d3356m9cahsuo.streamlit.app/
 
 ---
 
